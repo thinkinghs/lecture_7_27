@@ -1,0 +1,84 @@
+------------------------------------------------------------
+프롬프트 예시 1
+------------------------------------------------------------
+
+-영어 프롬프트
+Wide establishing shot of a modern supercomputing data center, long rows of server racks with soft blue indicator lights, clean corporate documentary look, slow steady camera, daylight-neutral lighting.
+
+
+- 한국어 프롬프트
+현대적 슈퍼컴퓨팅 데이터센터의 와이드 설정 샷. 길게 늘어선 서버랙, 은은한 파란 표시등, 깔끔한 기업 다큐 톤, 느리고 안정적인 카메라, 데이라이트-뉴트럴 조명.
+
+
+
+
+------------------------------------------------------------
+프롬프트 예시 2-1
+------------------------------------------------------------
+
+
+영상 프롬프트
+Cinematic macro shot, glowing neon-blue and red data streams surging through a futuristic server rack. Rapid camera dolly-out to reveal a complex, chaotic digital web choking and slowing down. High-tech glitch effects, dramatic sci-fi aesthetic, depth of field, 8K resolution, moody color grading. 
+
+(한글 번역: 시네마틱 매크로 샷, 미래형 서버 랙을 통해 폭발적으로 흐르는 네온 블루와 레드의 데이터 스트림. 빠른 달리아웃 카메라 워크로 복잡하고 혼란스러운 디지털 웹이 과부하로 느려지는 모습을 포착. 하이테크 글리치 효과, 극적인 과학 배경 미학, 심도 표현, 8K 해상도, 무디한 컬러 그레이딩)
+
+-------------------------------------------------------------------------------------
+
+사운드/나레이션/자막 프롬프트
+
+아래 항목들을 영상에 반영해줘
+사운드 & 효과음 (SFX): 낮게 깔리는 디지털 험(Hum) 사운드, 데이터가 급증하는 날카로운 스위시(Whoosh) 음향, 마지막에 경고음 같은 짧은 전자 비프음.
+
+나레이션 (VO): "매년 40%씩 폭증하는 국내 연구 데이터. 기존 5호기의 분석 용량은 이제 한계에 봉착했습니다."
+
+자막 (Subtitle):
+[상단] 국내 연구 데이터 매년 약 40% 증가
+[중앙] 기존 5호기 분석 처리 용량 한계
+
+
+
+------------------------------------------------------------
+프롬프트 예시 2-2
+------------------------------------------------------------
+
+영상 프롬프트
+Extreme close-up, a cutting-edge quantum supercomputer microchip activating. Gold and silver circuits glowing with intense white-blue LED light. Smooth crane shot moving up to reveal a massive, ultra-modern server room stretching into infinity. Sleek, powerful, high-contrast, anamorphic lens flare, corporate tech promo style.
+
+(한글 번역: 익스트림 클로즈업, 최첨단 슈퍼컴퓨터 마이크로칩이 활성화되는 순간. 금빛과 은빛 회로가 강렬한 화이트-블루 LED 빛으로 발광함. 부드러운 크레인 샷으로 위로 이동하며 끝없이 펼쳐진 거대하고 초현대적인 서버룸을 노출. 세련되고 강력함, 높은 대비, 아나모픽 렌즈 플레어, 기업 기술 홍보 스타일)
+
+-------------------------------------------------------------------------------------
+
+사운드/나레이션/자막 프롬프트
+
+아래 항목들을 영상에 반영해줘
+사운드 & 효과음 (SFX): 웅장하게 고조되는 일렉트로닉 빌드업 사운드, 묵직하고 깨끗한 베이스 패드(Bass Pad) 음향.
+
+나레이션 (VO): "총 사업비 약 2,900억 원. 기존 대비 6배 더 강력해진 국가 슈퍼컴퓨팅 6호기가 깨어납니다."
+
+자막 (Subtitle):
+[중앙] 총 사업비 약 2,900억 원
+[하단] 이론 성능 기존 5호기 대비 약 6배 규모
+
+
+------------------------------------------------------------
+프롬프트 예시 2-3
+------------------------------------------------------------
+
+영상 프롬프트
+Fast-paced cinematic montage with dynamic match cuts: a spinning 3D molecular structure of a new drug, a hyper-realistic global weather typhoon simulation, and a galaxy forming. Fast camera pans, rack focus, high energy, inspiring and futuristic aesthetic, vibrant and bright color grading.
+
+(한글 번역: 역동적인 매치 컷이 포함된 빠른 템포의 시네마틱 몽타주: 회전하는 신약의 3D 분자 구조, 하이퍼 리얼리스틱 지구 기상 태풍 시뮬레이션, 그리고 생성되는 은하계. 빠른 카메라 팬, 랙 포커스, 높은 에너지, 영감을 주는 미래지향적 미학, 활기차고 밝은 컬러 그레이딩)
+
+-------------------------------------------------------------------------------------
+
+사운드/나레이션/자막 프롬프트
+
+사운드 & 효과음 (SFX): 빠른 속도감을 주는 디지털 스캐닝 사운드, 후반부에 터지는 웅장하고 희망찬 오케스트라 히트(Hit) 및 비트감 있는 배경음악.
+
+나레이션 (VO): "분석 시간 2.7배 단축, 첫해 1,240개 과제 수행. 기상부터 천문까지, 대한민국 과학의 미래를 가속합니다."
+
+자막 (Subtitle):
+[좌측] 분석 시간 2.7배 단축
+[우측] 도입 첫해 1,240건 과제 활용
+[하단] 기상·신약·소재·천문 등 8개 분야 대형 시뮬레이션 수행
+
